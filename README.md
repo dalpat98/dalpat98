@@ -8,6 +8,7 @@
 -->
 
 <p align="left"> <a href="https://twitter.com/DalpatDc" target="blank"><img src="https://img.shields.io/twitter/follow/dalpatdc?logo=twitter&style=for-the-badge" alt="dalpatdc" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/dalpat-i-b5b451166/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow%20me%20on%20LinkedIn-green" alt="dalpati" /></a> </p>
 
 
 - 🔭 I’m currently working on **Algorithm Trading Software**
