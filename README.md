@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://newsandstory.com/](https://newsandstory.com/)
 
-- 💬 Ask me about **Flutter, React JS, Python, Django, Machine learning**
+- 💬 Ask me about **Flutter, React Native, React JS, Node Js, Python, Django, Machine learning**
 
 - 📫 How to reach me **dalpat999.dc@gmail.com**
 
