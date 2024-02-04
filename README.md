@@ -26,6 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/DalpatDc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="DalpatDc" height="30" width="40" /></a>
+<a href="https://wa.me/+917073708192" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="dalpat-i" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dalpat-i-b5b451166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dalpat-i" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dalpat_chaudhary__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dalpat_chaudhary__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dalpat98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dalpat98" height="30" width="40" /></a>
